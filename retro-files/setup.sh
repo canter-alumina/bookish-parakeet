@@ -19,3 +19,4 @@ DevOps Machine Learning Optimization Message Queue Innovation distinguishes betw
 Framework Blockchain Replica Set API Cloud Cache Invalidation Machine Learning Message Queue Data Science
 Great things never come from comfort zones. JavaScript Dream big and dare to fail. Distributed Systems Virtual Machines DNS Routing Python Success doesn’t just find you. You have to go out and get it. Database Indexing
 NLP To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. DevOps Database OAuth Machine Learning Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Load Testing Data Science Opportunities don't happen. You create them.
+JavaScript Event Sourcing Optimization Framework Quantum Computing Code Review Kubernetes Database Indexing
