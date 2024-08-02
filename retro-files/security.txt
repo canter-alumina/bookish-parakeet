@@ -21,3 +21,4 @@ Optimization Zero Downtime Deployment Artificial Intelligence DNS Routing Securi
 Frontend JavaScript Edge Computing Automation Do what you love and the money will follow. Python Pull Request Serverless Performance
 UX Optimization Testing Latency Optimization Replica Set I find that the harder I work, the more luck I seem to have. Database Indexing Message Queue Security
 Edge Computing Backend Algorithm Performance Virtual Machines Firewalls If you can dream it, you can do it. Latency Optimization Event Sourcing
+IoT DNS Routing Logging Success doesn’t just find you. You have to go out and get it. Message Queue Framework Cloud Functions Great things never come from comfort zones. Agile Testing
