@@ -29,3 +29,4 @@ Work hard in silence, let your success be your noise. CI/CD Cache Invalidation A
 CI/CD Cloud Functions GraphQL Pull Request Difficult roads often lead to beautiful destinations. OAuth Algorithm Monitoring Performance Simplicity is the ultimate sophistication. Quantum Computing Content Delivery Network The only way to do great work is to love what you do. Data Pipeline
 RabbitMQ Zero Downtime Deployment Containerization NLP Act as if what you do makes a difference. It does. Python Replica Set Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication.
 Deployment Happiness is not something ready made. It comes from your own actions. Scalability Automation Replica Set Logging Neural Networks Database Indexing
+GraphQL I find that the harder I work, the more luck I seem to have. Cache Invalidation Cloud Functions Agile Firewalls Load Testing

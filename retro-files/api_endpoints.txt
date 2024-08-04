@@ -21,3 +21,4 @@ Distributed Systems Difficult roads often lead to beautiful destinations. Artifi
 Sharding Stay hungry, stay foolish. Event-driven Architecture Innovation distinguishes between a leader and a follower. RabbitMQ API Artificial Intelligence Event Sourcing Server Response
 Great things never come from comfort zones. API RabbitMQ Difficult roads often lead to beautiful destinations. Distributed Systems Machine Learning Edge Computing Event-driven Architecture Backend Frontend Cache Invalidation
 Happiness is not something ready made. It comes from your own actions. Cloud React Replica Set Agile
+Serverless Content Delivery Network Big Data Latency Optimization DNS Routing Logging Database
