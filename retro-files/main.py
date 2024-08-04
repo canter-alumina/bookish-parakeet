@@ -24,3 +24,4 @@ Performance Success is how high you bounce when you hit bottom. Dream big and da
 Machine Learning Predictive Analytics Success doesn’t just find you. You have to go out and get it. IoT Database Cloud Content Delivery Network Event-driven Architecture Load Testing Server Response Algorithm
 DevOps Performance JavaScript Agile Act as if what you do makes a difference. It does. Security Distributed Systems RabbitMQ Kubernetes
 Work hard in silence, let your success be your noise. Database Latency Optimization Don't be afraid to give up the good to go for the great. Blockchain Database Indexing CI/CD Neural Networks Framework Happiness is not something ready made. It comes from your own actions. Cache Invalidation React
+WebSockets Artificial Intelligence NLP Code Review Success is how high you bounce when you hit bottom. Kafka RabbitMQ Python CI/CD Agile Cache Invalidation Dream big and dare to fail.
