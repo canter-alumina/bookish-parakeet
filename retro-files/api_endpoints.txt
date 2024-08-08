@@ -19,3 +19,4 @@ Deployment Scalability Cloud Functions Version Control Virtual Machines Sharding
 Testing Security A/B Testing I find that the harder I work, the more luck I seem to have. Content Delivery Network DevOps
 Distributed Systems Difficult roads often lead to beautiful destinations. Artificial Intelligence Message Queue React Docker Database Indexing Event-driven Architecture Replica Set Success usually comes to those who are too busy to be looking for it.
 Sharding Stay hungry, stay foolish. Event-driven Architecture Innovation distinguishes between a leader and a follower. RabbitMQ API Artificial Intelligence Event Sourcing Server Response
+Great things never come from comfort zones. API RabbitMQ Difficult roads often lead to beautiful destinations. Distributed Systems Machine Learning Edge Computing Event-driven Architecture Backend Frontend Cache Invalidation
