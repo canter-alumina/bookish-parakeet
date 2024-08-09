@@ -17,3 +17,4 @@ Simplicity is the ultimate sophistication. Act as if what you do makes a differe
 CI/CD UX Optimization Framework Success is not in what you have, but who you are. Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Cloud Functions Backend Stay hungry, stay foolish. Load Testing React
 API UX Optimization Data Science Virtual Machines Blockchain Work hard in silence, let your success be your noise. Docker Edge Computing Python
 Agile Framework Success usually comes to those who are too busy to be looking for it. DNS Routing Optimization GraphQL Backend Artificial Intelligence
+Security API Don't be afraid to give up the good to go for the great. Edge Computing Multi-threading Blockchain Version Control Performance Content Delivery Network Data Pipeline Automation
