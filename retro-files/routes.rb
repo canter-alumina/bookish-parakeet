@@ -17,3 +17,4 @@ Simplicity is the ultimate sophistication. JWT Stay hungry, stay foolish. Machin
 Neural Networks Sharding Artificial Intelligence Database Indexing Message Queue Monitoring Algorithm
 React Python Sharding Data Science UX Optimization Logging Database Indexing Replica Set Docker
 Happiness is not something ready made. It comes from your own actions. Sharding DNS Routing Algorithm OAuth Monitoring WebSockets Artificial Intelligence
+Distributed Systems If you can dream it, you can do it. Message Queue RabbitMQ Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. IoT Innovation distinguishes between a leader and a follower. A/B Testing Stay hungry, stay foolish. Parallel Processing Artificial Intelligence

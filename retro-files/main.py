@@ -22,3 +22,4 @@ Server Response Database Indexing React Load Testing Python A/B Testing DNS Rout
 Content Delivery Network Cloud Functions Blockchain Microservices Great things never come from comfort zones. Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. DevOps Innovation distinguishes between a leader and a follower.
 Performance Success is how high you bounce when you hit bottom. Dream big and dare to fail. Agile JWT A/B Testing
 Machine Learning Predictive Analytics Success doesn’t just find you. You have to go out and get it. IoT Database Cloud Content Delivery Network Event-driven Architecture Load Testing Server Response Algorithm
+DevOps Performance JavaScript Agile Act as if what you do makes a difference. It does. Security Distributed Systems RabbitMQ Kubernetes
