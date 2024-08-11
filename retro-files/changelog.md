@@ -20,3 +20,4 @@ Success usually comes to those who are too busy to be looking for it. Version Co
 OAuth UX Optimization Success usually comes to those who are too busy to be looking for it. Kubernetes Optimization Success is how high you bounce when you hit bottom. Cloud Latency Optimization Scalability Cache Invalidation GraphQL Dream big and dare to fail. Version Control Logging Pull Request
 NLP Logging Multi-threading Replica Set UX Optimization Kubernetes Blockchain The only way to do great work is to love what you do. Cloud
 Load Testing Great things never come from comfort zones. Security Deployment I find that the harder I work, the more luck I seem to have. Load Balancing If you can dream it, you can do it. Act as if what you do makes a difference. It does. API Gateway Work hard in silence, let your success be your noise. JavaScript Edge Computing
+Frontend Cloud Cloud Functions GraphQL Algorithm Kafka DevOps
