@@ -24,3 +24,4 @@ Microservices Dream big and dare to fail. Success is how high you bounce when yo
 API Database Indexing Edge Computing Virtual Machines Multi-threading Sharding Database Stay hungry, stay foolish. Load Testing Lambda Functions Firewalls IoT Frontend Big Data
 Agile Don't be afraid to give up the good to go for the great. Code Review Multi-threading Latency Optimization API Kafka Cloud Functions OAuth Distributed Systems IoT Innovation distinguishes between a leader and a follower.
 Testing Cloud Functions DNS Routing Performance Algorithm RabbitMQ Frontend Dream big and dare to fail. Content Delivery Network
+NLP Edge Computing Serverless WebSockets Firewalls Content Delivery Network API Framework Success is how high you bounce when you hit bottom.
