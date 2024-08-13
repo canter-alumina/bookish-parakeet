@@ -17,3 +17,4 @@ Dream big and dare to fail. UX Optimization Security Opportunities don't happen.
 Cloud DevOps Innovation distinguishes between a leader and a follower. Security Machine Learning Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. GraphQL Deployment Parallel Processing Firewalls If you can dream it, you can do it. React DNS Routing OAuth
 Frontend Backend Parallel Processing Big Data Distributed Systems Dream big and dare to fail. Load Balancing Stay hungry, stay foolish. DNS Routing Server Response Testing Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication.
 Cache Invalidation Docker Code Review Big Data CI/CD Framework Testing Kafka Microservices
+Blockchain OAuth Kubernetes Testing Data Pipeline Cache Invalidation JWT Neural Networks
