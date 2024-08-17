@@ -22,3 +22,4 @@ Server Response Do what you love and the money will follow. If you can dream it,
 Zero Downtime Deployment Neural Networks Automation UX Optimization Dream big and dare to fail. Quantum Computing Framework
 CI/CD IoT Do what you love and the money will follow. Great things never come from comfort zones. Automation Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. API Gateway Cloud Neural Networks Distributed Systems Monitoring Docker Framework UX Optimization
 Multi-threading Frontend Data Science Happiness is not something ready made. It comes from your own actions. API Gateway Docker Sharding DNS Routing Blockchain Version Control
+Multi-threading Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Success is how high you bounce when you hit bottom. Machine Learning Agile Content Delivery Network
