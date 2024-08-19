@@ -25,3 +25,4 @@ Docker Firewalls Stay hungry, stay foolish. Security DevOps Deployment
 Firewalls Server Response Virtual Machines Deployment Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Big Data Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst.
 I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment RabbitMQ Great things never come from comfort zones. Neural Networks Backend NLP Cloud Edge Computing Monitoring
 Version Control Neural Networks Framework Code Review Parallel Processing Agile
+Deployment Work hard in silence, let your success be your noise. Algorithm Success is not in what you have, but who you are. Predictive Analytics Virtual Machines Difficult roads often lead to beautiful destinations. OAuth Testing Container Orchestration React Zero Downtime Deployment

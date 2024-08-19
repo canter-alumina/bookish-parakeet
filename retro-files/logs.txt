@@ -24,3 +24,4 @@ Happiness is not something ready made. It comes from your own actions. RabbitMQ 
 OAuth Don't be afraid to give up the good to go for the great. Load Testing RabbitMQ Big Data Replica Set Artificial Intelligence Logging Success usually comes to those who are too busy to be looking for it. Cache Invalidation
 Firewalls JavaScript Machine Learning Testing Latency Optimization Message Queue Virtual Machines Happiness is not something ready made. It comes from your own actions. Monitoring Quantum Computing The only way to do great work is to love what you do. Dream big and dare to fail. Blockchain Algorithm
 Load Balancing Message Queue Cache Invalidation Server Response Microservices Data Science Great things never come from comfort zones. Agile Do what you love and the money will follow.
+Cache Invalidation Message Queue Event Sourcing GraphQL Big Data Container Orchestration Logging Multi-threading Event-driven Architecture Deployment
