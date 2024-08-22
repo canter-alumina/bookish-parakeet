@@ -15,3 +15,4 @@ Python Cloud Functions Success doesn’t just find you. You have to go out and get
 Python Don't be afraid to give up the good to go for the great. Testing NLP Docker Kubernetes GraphQL UX Optimization
 Simplicity is the ultimate sophistication. JWT Stay hungry, stay foolish. Machine Learning Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Content Delivery Network
 Neural Networks Sharding Artificial Intelligence Database Indexing Message Queue Monitoring Algorithm
+React Python Sharding Data Science UX Optimization Logging Database Indexing Replica Set Docker

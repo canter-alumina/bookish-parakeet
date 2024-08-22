@@ -17,3 +17,4 @@ Artificial Intelligence Load Balancing Performance I find that the harder I work
 Great things never come from comfort zones. Big Data API Gateway Cloud Success is how high you bounce when you hit bottom. Sharding Monitoring Optimization Replica Set
 DevOps Machine Learning Optimization Message Queue Innovation distinguishes between a leader and a follower. UX Optimization
 Framework Blockchain Replica Set API Cloud Cache Invalidation Machine Learning Message Queue Data Science
+Great things never come from comfort zones. JavaScript Dream big and dare to fail. Distributed Systems Virtual Machines DNS Routing Python Success doesn’t just find you. You have to go out and get it. Database Indexing
