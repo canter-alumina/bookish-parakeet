@@ -16,3 +16,4 @@ Python Don't be afraid to give up the good to go for the great. Testing NLP Dock
 Simplicity is the ultimate sophistication. JWT Stay hungry, stay foolish. Machine Learning Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Content Delivery Network
 Neural Networks Sharding Artificial Intelligence Database Indexing Message Queue Monitoring Algorithm
 React Python Sharding Data Science UX Optimization Logging Database Indexing Replica Set Docker
+Happiness is not something ready made. It comes from your own actions. Sharding DNS Routing Algorithm OAuth Monitoring WebSockets Artificial Intelligence
