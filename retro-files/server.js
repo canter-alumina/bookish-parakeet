@@ -16,3 +16,4 @@ Virtual Machines JavaScript Success usually comes to those who are too busy to b
 Dream big and dare to fail. UX Optimization Security Opportunities don't happen. You create them. Testing Server Response Serverless Lambda Functions Data Pipeline
 Cloud DevOps Innovation distinguishes between a leader and a follower. Security Machine Learning Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. GraphQL Deployment Parallel Processing Firewalls If you can dream it, you can do it. React DNS Routing OAuth
 Frontend Backend Parallel Processing Big Data Distributed Systems Dream big and dare to fail. Load Balancing Stay hungry, stay foolish. DNS Routing Server Response Testing Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication.
+Cache Invalidation Docker Code Review Big Data CI/CD Framework Testing Kafka Microservices
