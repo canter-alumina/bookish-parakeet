@@ -19,3 +19,4 @@ Opportunities don't happen. You create them. Neural Networks The only way to do 
 WebSockets Content Delivery Network I find that the harder I work, the more luck I seem to have. Event-driven Architecture Security Data Pipeline JavaScript Artificial Intelligence Quantum Computing
 Load Testing Pull Request Monitoring Frontend Great things never come from comfort zones. Database Indexing Database To be the best, you must be able to handle the worst. Distributed Systems Event Sourcing Replica Set Container Orchestration
 Cloud Functions React Backend Message Queue Container Orchestration NLP Virtual Machines
+Database NLP To be the best, you must be able to handle the worst. Frontend I find that the harder I work, the more luck I seem to have. Cloud Functions Parallel Processing Data Pipeline Do what you love and the money will follow. Backend Artificial Intelligence OAuth
