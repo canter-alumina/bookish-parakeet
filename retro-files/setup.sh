@@ -16,3 +16,4 @@ Latency Optimization Success usually comes to those who are too busy to be looki
 Artificial Intelligence Load Balancing Performance I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Serverless Dream big and dare to fail.
 Great things never come from comfort zones. Big Data API Gateway Cloud Success is how high you bounce when you hit bottom. Sharding Monitoring Optimization Replica Set
 DevOps Machine Learning Optimization Message Queue Innovation distinguishes between a leader and a follower. UX Optimization
+Framework Blockchain Replica Set API Cloud Cache Invalidation Machine Learning Message Queue Data Science

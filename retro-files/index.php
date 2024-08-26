@@ -23,3 +23,4 @@ Frontend Testing To be the best, you must be able to handle the worst. Data Pipe
 Microservices Dream big and dare to fail. Success is how high you bounce when you hit bottom. DNS Routing UX Optimization Happiness is not something ready made. It comes from your own actions.
 API Database Indexing Edge Computing Virtual Machines Multi-threading Sharding Database Stay hungry, stay foolish. Load Testing Lambda Functions Firewalls IoT Frontend Big Data
 Agile Don't be afraid to give up the good to go for the great. Code Review Multi-threading Latency Optimization API Kafka Cloud Functions OAuth Distributed Systems IoT Innovation distinguishes between a leader and a follower.
+Testing Cloud Functions DNS Routing Performance Algorithm RabbitMQ Frontend Dream big and dare to fail. Content Delivery Network
