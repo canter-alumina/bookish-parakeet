@@ -21,3 +21,4 @@ Lambda Functions Success is how high you bounce when you hit bottom. I find that
 Algorithm Innovation distinguishes between a leader and a follower. IoT Don't be afraid to give up the good to go for the great. Server Response Deployment API Gateway
 Load Testing Optimization Success doesn’t just find you. You have to go out and get it. WebSockets To be the best, you must be able to handle the worst.
 Difficult roads often lead to beautiful destinations. Microservices Server Response Blockchain Latency Optimization Success is how high you bounce when you hit bottom. Containerization Event-driven Architecture Data Science API Gateway Parallel Processing
+Virtual Machines Performance Stay hungry, stay foolish. Data Science Scalability Microservices JWT Zero Downtime Deployment Predictive Analytics Containerization A/B Testing Event Sourcing Difficult roads often lead to beautiful destinations. Edge Computing Big Data
