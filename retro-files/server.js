@@ -13,3 +13,4 @@ Data Science Microservices Success doesn’t just find you. You have to go out and
 Data Science Neural Networks Opportunities don't happen. You create them. Container Orchestration Security CI/CD
 Version Control Distributed Systems Zero Downtime Deployment CI/CD DNS Routing Happiness is not something ready made. It comes from your own actions. Deployment Kafka Great things never come from comfort zones. Microservices Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Database Neural Networks Monitoring
 Virtual Machines JavaScript Success usually comes to those who are too busy to be looking for it. Agile Data Pipeline Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. RabbitMQ Deployment Edge Computing
+Dream big and dare to fail. UX Optimization Security Opportunities don't happen. You create them. Testing Server Response Serverless Lambda Functions Data Pipeline
