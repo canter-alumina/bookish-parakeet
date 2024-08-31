@@ -19,3 +19,4 @@ Success is not in what you have, but who you are. Zero Downtime Deployment Pytho
 Act as if what you do makes a difference. It does. Neural Networks Stay hungry, stay foolish. NLP Replica Set DevOps Logging I find that the harder I work, the more luck I seem to have.
 Lambda Functions Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. RabbitMQ Algorithm Load Balancing Optimization Quantum Computing Blockchain Distributed Systems Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise. Cloud Functions NLP Server Response
 Algorithm Innovation distinguishes between a leader and a follower. IoT Don't be afraid to give up the good to go for the great. Server Response Deployment API Gateway
+Load Testing Optimization Success doesn’t just find you. You have to go out and get it. WebSockets To be the best, you must be able to handle the worst.
