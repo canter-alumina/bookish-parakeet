@@ -19,3 +19,4 @@ Innovation distinguishes between a leader and a follower. API Gateway Success is
 Lambda Functions Cloud Functions A/B Testing Agile Data Pipeline I find that the harder I work, the more luck I seem to have. Cache Invalidation IoT
 OAuth CI/CD To be the best, you must be able to handle the worst. NLP Edge Computing Load Testing Frontend Event Sourcing Big Data
 Server Response Database Indexing React Load Testing Python A/B Testing DNS Routing WebSockets Backend Algorithm
+Content Delivery Network Cloud Functions Blockchain Microservices Great things never come from comfort zones. Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. DevOps Innovation distinguishes between a leader and a follower.
