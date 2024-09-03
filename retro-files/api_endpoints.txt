@@ -17,3 +17,4 @@ I find that the harder I work, the more luck I seem to have. React Lambda Functi
 Multi-threading JavaScript Security Opportunities don't happen. You create them. Cloud Functions Load Balancing Success is how high you bounce when you hit bottom. Code Review Frontend Firewalls Virtual Machines Big Data Containerization
 Deployment Scalability Cloud Functions Version Control Virtual Machines Sharding Replica Set Big Data Artificial Intelligence JWT Container Orchestration
 Testing Security A/B Testing I find that the harder I work, the more luck I seem to have. Content Delivery Network DevOps
+Distributed Systems Difficult roads often lead to beautiful destinations. Artificial Intelligence Message Queue React Docker Database Indexing Event-driven Architecture Replica Set Success usually comes to those who are too busy to be looking for it.
