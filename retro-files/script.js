@@ -18,3 +18,4 @@ Virtual Machines Database Indexing Success is how high you bounce when you hit b
 If you can dream it, you can do it. Act as if what you do makes a difference. It does. Edge Computing CI/CD Database Indexing Content Delivery Network Don't be afraid to give up the good to go for the great. Framework
 Act as if what you do makes a difference. It does. Load Balancing Event Sourcing Data Pipeline Cache Invalidation Quantum Computing Edge Computing
 Containerization Quantum Computing Event-driven Architecture Event Sourcing Message Queue
+Containerization The only way to do great work is to love what you do. OAuth Edge Computing Latency Optimization API Replica Set DevOps Act as if what you do makes a difference. It does. UX Optimization Blockchain Algorithm Python Success is not in what you have, but who you are. Virtual Machines
