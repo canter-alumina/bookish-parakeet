@@ -18,3 +18,4 @@ Optimization Automation Success doesn’t just find you. You have to go out and ge
 Predictive Analytics Quantum Computing Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Containerization Serverless I find that the harder I work, the more luck I seem to have. Optimization Parallel Processing Load Balancing Scalability Success is how high you bounce when you hit bottom. Monitoring React WebSockets
 Automation To be the best, you must be able to handle the worst. Big Data Backend Firewalls JWT Framework
 Optimization Zero Downtime Deployment Artificial Intelligence DNS Routing Security Big Data Version Control Machine Learning
+Frontend JavaScript Edge Computing Automation Do what you love and the money will follow. Python Pull Request Serverless Performance
