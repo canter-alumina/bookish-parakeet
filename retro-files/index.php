@@ -21,3 +21,4 @@ Kafka Success is not in what you have, but who you are. Don't be afraid to give 
 Scalability Simplicity is the ultimate sophistication. Container Orchestration To be the best, you must be able to handle the worst. Load Balancing Python Microservices Difficult roads often lead to beautiful destinations. Artificial Intelligence
 Frontend Testing To be the best, you must be able to handle the worst. Data Pipeline DevOps A/B Testing Kubernetes JWT Automation Multi-threading WebSockets The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great.
 Microservices Dream big and dare to fail. Success is how high you bounce when you hit bottom. DNS Routing UX Optimization Happiness is not something ready made. It comes from your own actions.
+API Database Indexing Edge Computing Virtual Machines Multi-threading Sharding Database Stay hungry, stay foolish. Load Testing Lambda Functions Firewalls IoT Frontend Big Data
