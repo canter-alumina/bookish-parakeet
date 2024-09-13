@@ -16,3 +16,4 @@ Act as if what you do makes a difference. It does. Machine Learning Sharding IoT
 Zero Downtime Deployment Algorithm Edge Computing Cloud Functions Simplicity is the ultimate sophistication. Cache Invalidation WebSockets Database Security Cloud Virtual Machines RabbitMQ
 JavaScript Data Pipeline Performance Happiness is not something ready made. It comes from your own actions. Optimization Frontend
 Opportunities don't happen. You create them. Neural Networks The only way to do great work is to love what you do. Great things never come from comfort zones. UX Optimization Event Sourcing
+WebSockets Content Delivery Network I find that the harder I work, the more luck I seem to have. Event-driven Architecture Security Data Pipeline JavaScript Artificial Intelligence Quantum Computing
