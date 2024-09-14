@@ -18,3 +18,4 @@ Opportunities don't happen. You create them. Sharding Server Response JavaScript
 Innovation distinguishes between a leader and a follower. API Gateway Success is how high you bounce when you hit bottom. Data Science DNS Routing Data Pipeline Monitoring IoT Optimization
 Lambda Functions Cloud Functions A/B Testing Agile Data Pipeline I find that the harder I work, the more luck I seem to have. Cache Invalidation IoT
 OAuth CI/CD To be the best, you must be able to handle the worst. NLP Edge Computing Load Testing Frontend Event Sourcing Big Data
+Server Response Database Indexing React Load Testing Python A/B Testing DNS Routing WebSockets Backend Algorithm
