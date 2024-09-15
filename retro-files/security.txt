@@ -16,3 +16,4 @@ Kubernetes Microservices Kafka Security Work hard in silence, let your success b
 Difficult roads often lead to beautiful destinations. Monitoring Security Performance Don't be afraid to give up the good to go for the great. Frontend
 Optimization Automation Success doesn’t just find you. You have to go out and get it. Predictive Analytics DevOps A/B Testing
 Predictive Analytics Quantum Computing Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Containerization Serverless I find that the harder I work, the more luck I seem to have. Optimization Parallel Processing Load Balancing Scalability Success is how high you bounce when you hit bottom. Monitoring React WebSockets
+Automation To be the best, you must be able to handle the worst. Big Data Backend Firewalls JWT Framework
