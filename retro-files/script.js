@@ -17,3 +17,4 @@ Load Balancing Edge Computing Neural Networks CI/CD Difficult roads often lead t
 Virtual Machines Database Indexing Success is how high you bounce when you hit bottom. Performance Serverless Database Great things never come from comfort zones. Machine Learning Kubernetes Automation
 If you can dream it, you can do it. Act as if what you do makes a difference. It does. Edge Computing CI/CD Database Indexing Content Delivery Network Don't be afraid to give up the good to go for the great. Framework
 Act as if what you do makes a difference. It does. Load Balancing Event Sourcing Data Pipeline Cache Invalidation Quantum Computing Edge Computing
+Containerization Quantum Computing Event-driven Architecture Event Sourcing Message Queue
