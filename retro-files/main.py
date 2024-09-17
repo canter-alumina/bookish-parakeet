@@ -16,3 +16,4 @@ Artificial Intelligence Optimization Performance Success doesn’t just find you. 
 Stay hungry, stay foolish. Great things never come from comfort zones. RabbitMQ Cloud Functions Pull Request Latency Optimization Don't be afraid to give up the good to go for the great. Optimization React NLP Kubernetes
 Opportunities don't happen. You create them. Sharding Server Response JavaScript Replica Set Work hard in silence, let your success be your noise. Load Balancing Latency Optimization
 Innovation distinguishes between a leader and a follower. API Gateway Success is how high you bounce when you hit bottom. Data Science DNS Routing Data Pipeline Monitoring IoT Optimization
+Lambda Functions Cloud Functions A/B Testing Agile Data Pipeline I find that the harder I work, the more luck I seem to have. Cache Invalidation IoT
