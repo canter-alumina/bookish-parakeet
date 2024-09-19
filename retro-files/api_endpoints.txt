@@ -16,3 +16,4 @@ Optimization Kubernetes Framework Server Response Act as if what you do makes a 
 I find that the harder I work, the more luck I seem to have. React Lambda Functions Act as if what you do makes a difference. It does. Logging DevOps IoT Event Sourcing Frontend
 Multi-threading JavaScript Security Opportunities don't happen. You create them. Cloud Functions Load Balancing Success is how high you bounce when you hit bottom. Code Review Frontend Firewalls Virtual Machines Big Data Containerization
 Deployment Scalability Cloud Functions Version Control Virtual Machines Sharding Replica Set Big Data Artificial Intelligence JWT Container Orchestration
+Testing Security A/B Testing I find that the harder I work, the more luck I seem to have. Content Delivery Network DevOps

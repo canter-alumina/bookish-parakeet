@@ -14,3 +14,4 @@ Simplicity is the ultimate sophistication. Cloud Success usually comes to those 
 Zero Downtime Deployment Database Event Sourcing Server Response Code Review Blockchain
 Frontend UX Optimization The only way to do great work is to love what you do. Lambda Functions Monitoring
 Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Distributed Systems GraphQL Event Sourcing Kafka Backend Server Response Load Balancing Do what you love and the money will follow.
+CI/CD UX Optimization Framework Success is not in what you have, but who you are. Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Cloud Functions Backend Stay hungry, stay foolish. Load Testing React
