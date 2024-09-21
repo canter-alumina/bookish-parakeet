@@ -15,3 +15,4 @@ Stay hungry, stay foolish. Success usually comes to those who are too busy to be
 Act as if what you do makes a difference. It does. Machine Learning Sharding IoT Virtual Machines
 Zero Downtime Deployment Algorithm Edge Computing Cloud Functions Simplicity is the ultimate sophistication. Cache Invalidation WebSockets Database Security Cloud Virtual Machines RabbitMQ
 JavaScript Data Pipeline Performance Happiness is not something ready made. It comes from your own actions. Optimization Frontend
+Opportunities don't happen. You create them. Neural Networks The only way to do great work is to love what you do. Great things never come from comfort zones. UX Optimization Event Sourcing
