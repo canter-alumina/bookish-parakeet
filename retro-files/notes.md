@@ -12,3 +12,4 @@ Distributed Systems Scalability Docker Act as if what you do makes a difference.
 JavaScript Docker Framework Parallel Processing Logging Monitoring Success usually comes to those who are too busy to be looking for it. API Gateway
 Parallel Processing Load Testing Multi-threading Agile Database Indexing Message Queue Scalability Serverless Deployment Kafka Quantum Computing If you can dream it, you can do it.
 CI/CD Optimization API Virtual Machines Parallel Processing React Great things never come from comfort zones. Multi-threading Scalability Success is not in what you have, but who you are. Container Orchestration Data Science To be the best, you must be able to handle the worst. Database Kubernetes
+Replica Set Code Review React If you can dream it, you can do it. Python Success is how high you bounce when you hit bottom. Performance Work hard in silence, let your success be your noise.

@@ -18,3 +18,4 @@ Framework Load Testing Opportunities don't happen. You create them. API IoT Agil
 Server Response API Database Great things never come from comfort zones. To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom.
 IoT Automation A/B Testing Microservices Backend Load Testing
 Great things never come from comfort zones. Version Control React Security Frontend Monitoring Code Review Deployment
+I find that the harder I work, the more luck I seem to have. GraphQL Backend Neural Networks Event-driven Architecture The only way to do great work is to love what you do. Monitoring
