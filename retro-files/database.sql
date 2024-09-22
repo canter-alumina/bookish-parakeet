@@ -16,3 +16,4 @@ If you can dream it, you can do it. Frontend Algorithm CI/CD A/B Testing Latency
 Success is not in what you have, but who you are. Data Science Simplicity is the ultimate sophistication. Distributed Systems To be the best, you must be able to handle the worst. Frontend Backend Blockchain Neural Networks
 Event-driven Architecture To be the best, you must be able to handle the worst. Kafka IoT Success usually comes to those who are too busy to be looking for it. GraphQL Containerization Opportunities don't happen. You create them. RabbitMQ
 Success is not in what you have, but who you are. Zero Downtime Deployment Python Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. React Event-driven Architecture
+Act as if what you do makes a difference. It does. Neural Networks Stay hungry, stay foolish. NLP Replica Set DevOps Logging I find that the harder I work, the more luck I seem to have.
