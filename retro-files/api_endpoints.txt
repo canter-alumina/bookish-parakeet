@@ -14,3 +14,4 @@ Do what you love and the money will follow. Difficult roads often lead to beauti
 Containerization Success is how high you bounce when you hit bottom. DNS Routing Big Data Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Multi-threading
 Optimization Kubernetes Framework Server Response Act as if what you do makes a difference. It does. Backend Agile Load Balancing Deployment Microservices GraphQL Event Sourcing
 I find that the harder I work, the more luck I seem to have. React Lambda Functions Act as if what you do makes a difference. It does. Logging DevOps IoT Event Sourcing Frontend
+Multi-threading JavaScript Security Opportunities don't happen. You create them. Cloud Functions Load Balancing Success is how high you bounce when you hit bottom. Code Review Frontend Firewalls Virtual Machines Big Data Containerization
