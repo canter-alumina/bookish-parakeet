@@ -13,3 +13,4 @@ Server Response Success is not in what you have, but who you are. Optimization C
 Simplicity is the ultimate sophistication. Cloud Success usually comes to those who are too busy to be looking for it. A/B Testing If you can dream it, you can do it.
 Zero Downtime Deployment Database Event Sourcing Server Response Code Review Blockchain
 Frontend UX Optimization The only way to do great work is to love what you do. Lambda Functions Monitoring
+Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Distributed Systems GraphQL Event Sourcing Kafka Backend Server Response Load Balancing Do what you love and the money will follow.
