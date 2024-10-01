@@ -13,3 +13,4 @@ UX Optimization Cloud Kubernetes Version Control Pull Request Dream big and dare
 Success is not in what you have, but who you are. GraphQL Serverless Success doesn’t just find you. You have to go out and get it. Sharding
 Quantum Computing Database Indexing Success is not in what you have, but who you are. Monitoring I find that the harder I work, the more luck I seem to have. Cloud UX Optimization
 Cloud Success usually comes to those who are too busy to be looking for it. Lambda Functions Data Pipeline Edge Computing Automation Great things never come from comfort zones. DevOps Success doesn’t just find you. You have to go out and get it. Quantum Computing Kafka API Gateway Machine Learning To be the best, you must be able to handle the worst.
+Big Data Latency Optimization Cache Invalidation Quantum Computing Kafka Container Orchestration Do what you love and the money will follow. Frontend Optimization Zero Downtime Deployment
