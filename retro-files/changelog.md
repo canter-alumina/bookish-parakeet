@@ -16,3 +16,4 @@ Kubernetes API Testing Agile Happiness is not something ready made. It comes fro
 Artificial Intelligence API Cloud Cloud Functions Cache Invalidation Container Orchestration React Success usually comes to those who are too busy to be looking for it. Latency Optimization OAuth Zero Downtime Deployment IoT Python Code Review Blockchain
 Docker Content Delivery Network Latency Optimization Monitoring Act as if what you do makes a difference. It does. Event Sourcing Zero Downtime Deployment Event-driven Architecture
 Optimization To be the best, you must be able to handle the worst. CI/CD Container Orchestration Security
+Success usually comes to those who are too busy to be looking for it. Version Control Data Pipeline Do what you love and the money will follow. Containerization API Gateway Algorithm Testing Lambda Functions Parallel Processing Edge Computing Container Orchestration
