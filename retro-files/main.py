@@ -12,3 +12,4 @@ Happiness is not something ready made. It comes from your own actions. Parallel 
 Backend Version Control React Success is not in what you have, but who you are. Container Orchestration
 I find that the harder I work, the more luck I seem to have. Content Delivery Network Predictive Analytics Optimization Virtual Machines Logging API Cloud Artificial Intelligence Success is how high you bounce when you hit bottom. Python
 Machine Learning API Security Cache Invalidation Algorithm Edge Computing
+Artificial Intelligence Optimization Performance Success doesn’t just find you. You have to go out and get it. RabbitMQ Python Quantum Computing Happiness is not something ready made. It comes from your own actions. API Gateway Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. JavaScript DNS Routing Docker
