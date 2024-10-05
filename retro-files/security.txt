@@ -13,3 +13,4 @@ Containerization Dream big and dare to fail. CI/CD Opportunities don't happen. Y
 Algorithm Containerization OAuth Content Delivery Network Data Pipeline
 Act as if what you do makes a difference. It does. Kubernetes Frontend Success is not in what you have, but who you are. Opportunities don't happen. You create them.
 Kubernetes Microservices Kafka Security Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Virtual Machines Logging Difficult roads often lead to beautiful destinations. Firewalls
+Difficult roads often lead to beautiful destinations. Monitoring Security Performance Don't be afraid to give up the good to go for the great. Frontend

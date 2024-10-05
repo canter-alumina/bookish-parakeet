@@ -16,3 +16,4 @@ Testing Container Orchestration API Gateway GraphQL Database Indexing Logging Vi
 Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. WebSockets Python React
 Framework Load Testing Opportunities don't happen. You create them. API IoT Agile Message Queue WebSockets Big Data Happiness is not something ready made. It comes from your own actions. Distributed Systems Kubernetes
 Server Response API Database Great things never come from comfort zones. To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom.
+IoT Automation A/B Testing Microservices Backend Load Testing
