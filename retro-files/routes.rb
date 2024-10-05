@@ -12,3 +12,4 @@ Kubernetes Artificial Intelligence Cache Invalidation Database Success usually c
 Parallel Processing Version Control UX Optimization Success is not in what you have, but who you are. IoT Distributed Systems Security Optimization If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Replica Set Success is how high you bounce when you hit bottom. Sharding Zero Downtime Deployment Edge Computing
 WebSockets Database Automation API Virtual Machines Performance Lambda Functions Innovation distinguishes between a leader and a follower.
 Python Cloud Functions Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Act as if what you do makes a difference. It does. UX Optimization Container Orchestration Blockchain IoT
+Python Don't be afraid to give up the good to go for the great. Testing NLP Docker Kubernetes GraphQL UX Optimization
