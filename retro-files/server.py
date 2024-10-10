@@ -14,3 +14,4 @@ Algorithm Kafka JWT Testing Scalability Event-driven Architecture
 Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Database Performance Pull Request Success is not in what you have, but who you are. API Event Sourcing Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom.
 Act as if what you do makes a difference. It does. Machine Learning Sharding IoT Virtual Machines
 Zero Downtime Deployment Algorithm Edge Computing Cloud Functions Simplicity is the ultimate sophistication. Cache Invalidation WebSockets Database Security Cloud Virtual Machines RabbitMQ
+JavaScript Data Pipeline Performance Happiness is not something ready made. It comes from your own actions. Optimization Frontend
