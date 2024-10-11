@@ -10,3 +10,4 @@ The only way to do great work is to love what you do. Container Orchestration Wo
 Artificial Intelligence Code Review Big Data Kubernetes Great things never come from comfort zones. Parallel Processing Cache Invalidation
 Distributed Systems Scalability Docker Act as if what you do makes a difference. It does. Kubernetes
 JavaScript Docker Framework Parallel Processing Logging Monitoring Success usually comes to those who are too busy to be looking for it. API Gateway
+Parallel Processing Load Testing Multi-threading Agile Database Indexing Message Queue Scalability Serverless Deployment Kafka Quantum Computing If you can dream it, you can do it.
