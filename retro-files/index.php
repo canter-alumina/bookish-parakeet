@@ -17,3 +17,4 @@ Success doesn’t just find you. You have to go out and get it. Automation Docker 
 Difficult roads often lead to beautiful destinations. Load Balancing Scalability IoT Security Microservices Great things never come from comfort zones. Stay hungry, stay foolish. NLP Virtual Machines Cloud Server Response Do what you love and the money will follow.
 Lambda Functions Edge Computing Logging Latency Optimization Dream big and dare to fail. Scalability API Cache Invalidation Python Act as if what you do makes a difference. It does.
 Neural Networks Deployment Replica Set Act as if what you do makes a difference. It does. Logging Predictive Analytics Monitoring Work hard in silence, let your success be your noise. Scalability DNS Routing Container Orchestration Kafka
+Kafka Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Testing Parallel Processing Logging Act as if what you do makes a difference. It does. Docker
