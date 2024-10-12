@@ -10,3 +10,4 @@ Security API Gateway Load Balancing Parallel Processing Happiness is not somethi
 Message Queue React Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Data Science Don't be afraid to give up the good to go for the great.
 Happiness is not something ready made. It comes from your own actions. Parallel Processing OAuth Docker React Load Testing UX Optimization Event Sourcing NLP Simplicity is the ultimate sophistication. DevOps
 Backend Version Control React Success is not in what you have, but who you are. Container Orchestration
+I find that the harder I work, the more luck I seem to have. Content Delivery Network Predictive Analytics Optimization Virtual Machines Logging API Cloud Artificial Intelligence Success is how high you bounce when you hit bottom. Python
