@@ -9,3 +9,4 @@ NLP Framework Neural Networks Optimization Act as if what you do makes a differe
 The only way to do great work is to love what you do. Container Orchestration Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Microservices Artificial Intelligence DNS Routing Data Science Event Sourcing Scalability Pull Request Don't be afraid to give up the good to go for the great. Quantum Computing Great things never come from comfort zones. Replica Set
 Artificial Intelligence Code Review Big Data Kubernetes Great things never come from comfort zones. Parallel Processing Cache Invalidation
 Distributed Systems Scalability Docker Act as if what you do makes a difference. It does. Kubernetes
+JavaScript Docker Framework Parallel Processing Logging Monitoring Success usually comes to those who are too busy to be looking for it. API Gateway

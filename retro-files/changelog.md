@@ -15,3 +15,4 @@ Monitoring Distributed Systems API Gateway Message Queue Cache Invalidation Pull
 Kubernetes API Testing Agile Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. Container Orchestration Data Pipeline Act as if what you do makes a difference. It does. Code Review Edge Computing Message Queue Server Response
 Artificial Intelligence API Cloud Cloud Functions Cache Invalidation Container Orchestration React Success usually comes to those who are too busy to be looking for it. Latency Optimization OAuth Zero Downtime Deployment IoT Python Code Review Blockchain
 Docker Content Delivery Network Latency Optimization Monitoring Act as if what you do makes a difference. It does. Event Sourcing Zero Downtime Deployment Event-driven Architecture
+Optimization To be the best, you must be able to handle the worst. CI/CD Container Orchestration Security
