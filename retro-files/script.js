@@ -14,3 +14,4 @@ Agile JWT If you can dream it, you can do it. A/B Testing To be the best, you mu
 Firewalls Event-driven Architecture Lambda Functions Microservices Zero Downtime Deployment Pull Request Quantum Computing Neural Networks RabbitMQ Message Queue
 Cloud Functions Sharding Work hard in silence, let your success be your noise. Dream big and dare to fail. CI/CD Monitoring
 Load Balancing Edge Computing Neural Networks CI/CD Difficult roads often lead to beautiful destinations. Cloud Functions Big Data
+Virtual Machines Database Indexing Success is how high you bounce when you hit bottom. Performance Serverless Database Great things never come from comfort zones. Machine Learning Kubernetes Automation
