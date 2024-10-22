@@ -8,3 +8,4 @@ Testing Do what you love and the money will follow. React Big Data Pull Request 
 Server Response A/B Testing Zero Downtime Deployment Cache Invalidation Work hard in silence, let your success be your noise. Performance
 Security API Gateway Load Balancing Parallel Processing Happiness is not something ready made. It comes from your own actions. Multi-threading
 Message Queue React Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Data Science Don't be afraid to give up the good to go for the great.
+Happiness is not something ready made. It comes from your own actions. Parallel Processing OAuth Docker React Load Testing UX Optimization Event Sourcing NLP Simplicity is the ultimate sophistication. DevOps
