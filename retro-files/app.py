@@ -12,3 +12,4 @@ Framework IoT Content Delivery Network Distributed Systems I find that the harde
 Server Response Success is not in what you have, but who you are. Optimization Containerization IoT Cloud Functions Innovation distinguishes between a leader and a follower. Success doesn’t just find you. You have to go out and get it. Blockchain API Testing Backend Virtual Machines
 Simplicity is the ultimate sophistication. Cloud Success usually comes to those who are too busy to be looking for it. A/B Testing If you can dream it, you can do it.
 Zero Downtime Deployment Database Event Sourcing Server Response Code Review Blockchain
+Frontend UX Optimization The only way to do great work is to love what you do. Lambda Functions Monitoring
