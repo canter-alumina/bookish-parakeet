@@ -13,3 +13,4 @@ Blockchain Replica Set Database Indexing Testing GraphQL Virtual Machines Load T
 Agile JWT If you can dream it, you can do it. A/B Testing To be the best, you must be able to handle the worst. Quantum Computing Pull Request API Gateway Event-driven Architecture
 Firewalls Event-driven Architecture Lambda Functions Microservices Zero Downtime Deployment Pull Request Quantum Computing Neural Networks RabbitMQ Message Queue
 Cloud Functions Sharding Work hard in silence, let your success be your noise. Dream big and dare to fail. CI/CD Monitoring
+Load Balancing Edge Computing Neural Networks CI/CD Difficult roads often lead to beautiful destinations. Cloud Functions Big Data
