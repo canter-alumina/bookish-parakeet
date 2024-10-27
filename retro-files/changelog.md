@@ -12,3 +12,4 @@ NLP Artificial Intelligence Load Testing RabbitMQ Testing Success usually comes 
 Big Data Artificial Intelligence Cloud I find that the harder I work, the more luck I seem to have. Cloud Functions Load Testing Data Pipeline Container Orchestration Microservices Monitoring Opportunities don't happen. You create them. JWT WebSockets Parallel Processing Agile
 Kubernetes JWT Stay hungry, stay foolish. React Innovation distinguishes between a leader and a follower. RabbitMQ
 Monitoring Distributed Systems API Gateway Message Queue Cache Invalidation Pull Request
+Kubernetes API Testing Agile Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. Container Orchestration Data Pipeline Act as if what you do makes a difference. It does. Code Review Edge Computing Message Queue Server Response

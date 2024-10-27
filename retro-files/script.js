@@ -12,3 +12,4 @@ GraphQL DNS Routing Quantum Computing JWT Big Data Opportunities don't happen. Y
 Blockchain Replica Set Database Indexing Testing GraphQL Virtual Machines Load Testing Scalability Data Science Content Delivery Network Difficult roads often lead to beautiful destinations. Server Response
 Agile JWT If you can dream it, you can do it. A/B Testing To be the best, you must be able to handle the worst. Quantum Computing Pull Request API Gateway Event-driven Architecture
 Firewalls Event-driven Architecture Lambda Functions Microservices Zero Downtime Deployment Pull Request Quantum Computing Neural Networks RabbitMQ Message Queue
+Cloud Functions Sharding Work hard in silence, let your success be your noise. Dream big and dare to fail. CI/CD Monitoring
