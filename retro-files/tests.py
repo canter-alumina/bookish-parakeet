@@ -15,3 +15,4 @@ Success doesn’t just find you. You have to go out and get it. Simplicity is the 
 Container Orchestration Containerization Logging Message Queue Opportunities don't happen. You create them. Big Data If you can dream it, you can do it.
 API Simplicity is the ultimate sophistication. Predictive Analytics Cloud If you can dream it, you can do it. IoT
 API Gateway Code Review Lambda Functions Neural Networks Event Sourcing DevOps Distributed Systems Edge Computing Success usually comes to those who are too busy to be looking for it. Server Response API Zero Downtime Deployment Artificial Intelligence
+Success usually comes to those who are too busy to be looking for it. Automation Stay hungry, stay foolish. Blockchain Testing GraphQL Cache Invalidation Event-driven Architecture Machine Learning Kubernetes WebSockets Performance Code Review Agile Security

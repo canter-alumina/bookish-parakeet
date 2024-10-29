@@ -13,3 +13,4 @@ IoT NLP Success is how high you bounce when you hit bottom. Neural Networks Data
 Frontend Replica Set Multi-threading Cache Invalidation Big Data Automation Virtual Machines Cloud Functions JWT Serverless
 Agile Big Data Cloud Functions Success usually comes to those who are too busy to be looking for it. Cloud Data Science Zero Downtime Deployment DNS Routing Virtual Machines Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower.
 Testing Container Orchestration API Gateway GraphQL Database Indexing Logging Virtual Machines Kubernetes
+Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. WebSockets Python React
