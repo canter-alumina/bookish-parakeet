@@ -7,3 +7,4 @@ Message Queue GraphQL JWT RabbitMQ Big Data Artificial Intelligence
 Testing Do what you love and the money will follow. React Big Data Pull Request Success is not in what you have, but who you are. Opportunities don't happen. You create them. Data Pipeline Blockchain Agile
 Server Response A/B Testing Zero Downtime Deployment Cache Invalidation Work hard in silence, let your success be your noise. Performance
 Security API Gateway Load Balancing Parallel Processing Happiness is not something ready made. It comes from your own actions. Multi-threading
+Message Queue React Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Data Science Don't be afraid to give up the good to go for the great.

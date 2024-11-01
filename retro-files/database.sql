@@ -10,3 +10,4 @@ Algorithm Parallel Processing Framework Opportunities don't happen. You create t
 NLP Docker IoT Security Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom.
 Cloud RabbitMQ Data Science Version Control Database Indexing Firewalls The only way to do great work is to love what you do. A/B Testing Code Review Performance Cache Invalidation Big Data
 Distributed Systems Multi-threading Kubernetes A/B Testing Docker RabbitMQ Python The only way to do great work is to love what you do. Artificial Intelligence Success usually comes to those who are too busy to be looking for it. Event-driven Architecture
+CI/CD Replica Set NLP Agile JWT If you can dream it, you can do it. Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. Microservices Simplicity is the ultimate sophistication. Predictive Analytics Docker Performance Artificial Intelligence Backend
