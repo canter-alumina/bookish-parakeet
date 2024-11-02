@@ -11,3 +11,4 @@ Great things never come from comfort zones. Replica Set Virtual Machines Docker 
 Testing React Load Testing NLP Algorithm Machine Learning Load Balancing Backend The only way to do great work is to love what you do.
 WebSockets Success doesn’t just find you. You have to go out and get it. Load Balancing Parallel Processing CI/CD DevOps
 Machine Learning Firewalls Automation Pull Request The only way to do great work is to love what you do. Latency Optimization JavaScript Cloud Functions
+Cloud Functions A/B Testing API Gateway Predictive Analytics Latency Optimization Data Pipeline Logging Container Orchestration
