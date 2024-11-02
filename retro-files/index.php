@@ -12,3 +12,4 @@ Stay hungry, stay foolish. Success usually comes to those who are too busy to be
 NLP Opportunities don't happen. You create them. Agile Performance Big Data Edge Computing Great things never come from comfort zones. Blockchain Firewalls Lambda Functions Replica Set
 Big Data Virtual Machines Frontend API Gateway Replica Set CI/CD Parallel Processing Containerization Testing A/B Testing Deployment Sharding Content Delivery Network Code Review Innovation distinguishes between a leader and a follower.
 A/B Testing Automation JavaScript Work hard in silence, let your success be your noise. API RabbitMQ The only way to do great work is to love what you do. Load Balancing Zero Downtime Deployment Lambda Functions Blockchain
+Dream big and dare to fail. Testing Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. To be the best, you must be able to handle the worst. GraphQL OAuth
