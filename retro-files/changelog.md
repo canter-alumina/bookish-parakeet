@@ -11,3 +11,4 @@ Deployment Predictive Analytics Success is not in what you have, but who you are
 NLP Artificial Intelligence Load Testing RabbitMQ Testing Success usually comes to those who are too busy to be looking for it. Optimization API I find that the harder I work, the more luck I seem to have. Kubernetes Act as if what you do makes a difference. It does. Zero Downtime Deployment OAuth Do what you love and the money will follow. Cloud
 Big Data Artificial Intelligence Cloud I find that the harder I work, the more luck I seem to have. Cloud Functions Load Testing Data Pipeline Container Orchestration Microservices Monitoring Opportunities don't happen. You create them. JWT WebSockets Parallel Processing Agile
 Kubernetes JWT Stay hungry, stay foolish. React Innovation distinguishes between a leader and a follower. RabbitMQ
+Monitoring Distributed Systems API Gateway Message Queue Cache Invalidation Pull Request

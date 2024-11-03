@@ -13,3 +13,4 @@ Data Science Containerization Simplicity is the ultimate sophistication. Machine
 Replica Set Optimization Automation Event-driven Architecture Pull Request
 Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. Testing API I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Container Orchestration Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them.
 Container Orchestration Containerization Logging Message Queue Opportunities don't happen. You create them. Big Data If you can dream it, you can do it.
+API Simplicity is the ultimate sophistication. Predictive Analytics Cloud If you can dream it, you can do it. IoT
