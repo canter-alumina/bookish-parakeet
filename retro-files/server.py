@@ -12,3 +12,4 @@ Opportunities don't happen. You create them. To be the best, you must be able to
 Database I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise. Load Testing IoT Container Orchestration Deployment Distributed Systems Lambda Functions Quantum Computing Database Indexing Serverless
 Algorithm Kafka JWT Testing Scalability Event-driven Architecture
 Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Database Performance Pull Request Success is not in what you have, but who you are. API Event Sourcing Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom.
+Act as if what you do makes a difference. It does. Machine Learning Sharding IoT Virtual Machines

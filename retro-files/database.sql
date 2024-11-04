@@ -9,3 +9,4 @@ GraphQL Automation Algorithm Lambda Functions Backend Parallel Processing Databa
 Algorithm Parallel Processing Framework Opportunities don't happen. You create them. Data Pipeline Deployment Scalability Kubernetes Content Delivery Network
 NLP Docker IoT Security Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom.
 Cloud RabbitMQ Data Science Version Control Database Indexing Firewalls The only way to do great work is to love what you do. A/B Testing Code Review Performance Cache Invalidation Big Data
+Distributed Systems Multi-threading Kubernetes A/B Testing Docker RabbitMQ Python The only way to do great work is to love what you do. Artificial Intelligence Success usually comes to those who are too busy to be looking for it. Event-driven Architecture
