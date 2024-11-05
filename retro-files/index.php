@@ -11,3 +11,4 @@ To be the best, you must be able to handle the worst. Data Pipeline Optimization
 Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Agile Kafka Event Sourcing Work hard in silence, let your success be your noise.
 NLP Opportunities don't happen. You create them. Agile Performance Big Data Edge Computing Great things never come from comfort zones. Blockchain Firewalls Lambda Functions Replica Set
 Big Data Virtual Machines Frontend API Gateway Replica Set CI/CD Parallel Processing Containerization Testing A/B Testing Deployment Sharding Content Delivery Network Code Review Innovation distinguishes between a leader and a follower.
+A/B Testing Automation JavaScript Work hard in silence, let your success be your noise. API RabbitMQ The only way to do great work is to love what you do. Load Balancing Zero Downtime Deployment Lambda Functions Blockchain
