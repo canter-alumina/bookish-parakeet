@@ -9,3 +9,4 @@ Serverless Don't be afraid to give up the good to go for the great. WebSockets D
 API Version Control Neural Networks The only way to do great work is to love what you do. Kafka Event-driven Architecture Do what you love and the money will follow. Security Dream big and dare to fail. Artificial Intelligence CI/CD
 Container Orchestration Frontend CI/CD Python Containerization Data Science Data Pipeline Agile Server Response Database Indexing
 Logging Deployment Data Pipeline Containerization Predictive Analytics Latency Optimization Virtual Machines React
+IoT NLP Success is how high you bounce when you hit bottom. Neural Networks Database Big Data Serverless Distributed Systems UX Optimization DNS Routing Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. Virtual Machines Kafka
