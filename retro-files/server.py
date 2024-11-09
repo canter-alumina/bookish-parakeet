@@ -10,3 +10,4 @@ Deployment Edge Computing OAuth Neural Networks Kubernetes Success doesn’t just 
 Database Virtual Machines Replica Set Optimization Message Queue Event-driven Architecture
 Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Load Balancing Containerization Dream big and dare to fail. Framework IoT Database Indexing WebSockets Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. API Gateway Performance Serverless Blockchain
 Database I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise. Load Testing IoT Container Orchestration Deployment Distributed Systems Lambda Functions Quantum Computing Database Indexing Serverless
+Algorithm Kafka JWT Testing Scalability Event-driven Architecture
