@@ -10,3 +10,4 @@ Frontend DevOps Blockchain Scalability Success is how high you bounce when you h
 Parallel Processing Performance Algorithm Zero Downtime Deployment Sharding DNS Routing Cloud Stay hungry, stay foolish. UX Optimization
 Don't be afraid to give up the good to go for the great. Database Quantum Computing Code Review Cache Invalidation Database Indexing Pull Request Blockchain
 UX Optimization Cloud Kubernetes Version Control Pull Request Dream big and dare to fail. Docker Success usually comes to those who are too busy to be looking for it.
+Success is not in what you have, but who you are. GraphQL Serverless Success doesn’t just find you. You have to go out and get it. Sharding
