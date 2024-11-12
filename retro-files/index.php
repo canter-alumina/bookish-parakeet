@@ -9,3 +9,4 @@ Monitoring Microservices Great things never come from comfort zones. Scalability
 Event Sourcing I find that the harder I work, the more luck I seem to have. Distributed Systems DNS Routing Predictive Analytics Security
 To be the best, you must be able to handle the worst. Data Pipeline Optimization UX Optimization NLP Blockchain Performance Security Load Balancing Simplicity is the ultimate sophistication.
 Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Agile Kafka Event Sourcing Work hard in silence, let your success be your noise.
+NLP Opportunities don't happen. You create them. Agile Performance Big Data Edge Computing Great things never come from comfort zones. Blockchain Firewalls Lambda Functions Replica Set
