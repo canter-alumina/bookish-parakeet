@@ -8,3 +8,4 @@ Firewalls Edge Computing CI/CD Blockchain Event Sourcing Neural Networks Backend
 GraphQL Automation Algorithm Lambda Functions Backend Parallel Processing Database Indexing Machine Learning Success usually comes to those who are too busy to be looking for it. Cloud Functions
 Algorithm Parallel Processing Framework Opportunities don't happen. You create them. Data Pipeline Deployment Scalability Kubernetes Content Delivery Network
 NLP Docker IoT Security Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom.
+Cloud RabbitMQ Data Science Version Control Database Indexing Firewalls The only way to do great work is to love what you do. A/B Testing Code Review Performance Cache Invalidation Big Data
