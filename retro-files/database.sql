@@ -7,3 +7,4 @@ JavaScript Happiness is not something ready made. It comes from your own actions
 Firewalls Edge Computing CI/CD Blockchain Event Sourcing Neural Networks Backend
 GraphQL Automation Algorithm Lambda Functions Backend Parallel Processing Database Indexing Machine Learning Success usually comes to those who are too busy to be looking for it. Cloud Functions
 Algorithm Parallel Processing Framework Opportunities don't happen. You create them. Data Pipeline Deployment Scalability Kubernetes Content Delivery Network
+NLP Docker IoT Security Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom.
