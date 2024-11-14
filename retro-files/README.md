@@ -7,3 +7,4 @@ Server Response NLP Artificial Intelligence Version Control Algorithm Success is
 UX Optimization Virtual Machines Performance Containerization Agile Code Review Success doesn’t just find you. You have to go out and get it. Data Science Data Pipeline Success is not in what you have, but who you are.
 Serverless Don't be afraid to give up the good to go for the great. WebSockets Data Pipeline Firewalls Virtual Machines Frontend The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Optimization If you can dream it, you can do it.
 API Version Control Neural Networks The only way to do great work is to love what you do. Kafka Event-driven Architecture Do what you love and the money will follow. Security Dream big and dare to fail. Artificial Intelligence CI/CD
+Container Orchestration Frontend CI/CD Python Containerization Data Science Data Pipeline Agile Server Response Database Indexing
