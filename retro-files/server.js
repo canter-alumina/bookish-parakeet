@@ -7,3 +7,4 @@ Quantum Computing Predictive Analytics Logging Blockchain Content Delivery Netwo
 Database Indexing Message Queue A/B Testing Virtual Machines Deployment Replica Set If you can dream it, you can do it. Do what you love and the money will follow. Algorithm Sharding CI/CD
 Stay hungry, stay foolish. IoT Simplicity is the ultimate sophistication. Server Response OAuth Framework
 Artificial Intelligence Content Delivery Network Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Security DevOps Framework Don't be afraid to give up the good to go for the great. Message Queue Code Review Event-driven Architecture Do what you love and the money will follow.
+JavaScript Virtual Machines Serverless Parallel Processing Multi-threading Pull Request Logging Don't be afraid to give up the good to go for the great. Machine Learning Algorithm Happiness is not something ready made. It comes from your own actions.
