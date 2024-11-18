@@ -10,3 +10,4 @@ Event Sourcing React Content Delivery Network Multi-threading Deployment Machine
 Lambda Functions Success is how high you bounce when you hit bottom. Algorithm Frontend DNS Routing Load Testing Automation Cloud Functions
 GraphQL DNS Routing Quantum Computing JWT Big Data Opportunities don't happen. You create them. Latency Optimization Security Microservices Pull Request Success usually comes to those who are too busy to be looking for it.
 Blockchain Replica Set Database Indexing Testing GraphQL Virtual Machines Load Testing Scalability Data Science Content Delivery Network Difficult roads often lead to beautiful destinations. Server Response
+Agile JWT If you can dream it, you can do it. A/B Testing To be the best, you must be able to handle the worst. Quantum Computing Pull Request API Gateway Event-driven Architecture
