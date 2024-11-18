@@ -5,3 +5,4 @@ Zero Downtime Deployment A/B Testing Neural Networks Container Orchestration Per
 Frontend DevOps Work hard in silence, let your success be your noise. Latency Optimization Python API Pull Request DNS Routing UX Optimization GraphQL Great things never come from comfort zones. The only way to do great work is to love what you do. Stay hungry, stay foolish.
 Message Queue GraphQL JWT RabbitMQ Big Data Artificial Intelligence
 Testing Do what you love and the money will follow. React Big Data Pull Request Success is not in what you have, but who you are. Opportunities don't happen. You create them. Data Pipeline Blockchain Agile
+Server Response A/B Testing Zero Downtime Deployment Cache Invalidation Work hard in silence, let your success be your noise. Performance
