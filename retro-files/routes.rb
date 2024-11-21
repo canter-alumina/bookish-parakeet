@@ -8,3 +8,4 @@ Load Testing DevOps Container Orchestration Kubernetes Frontend Don't be afraid 
 Server Response Success is how high you bounce when you hit bottom. React Event Sourcing NLP
 Cloud Algorithm IoT Monitoring Edge Computing Dream big and dare to fail. Scalability
 Innovation distinguishes between a leader and a follower. Firewalls Latency Optimization Machine Learning Database Indexing Cloud React Microservices Load Testing Message Queue Automation
+Kubernetes Artificial Intelligence Cache Invalidation Database Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Cloud Logging Distributed Systems
