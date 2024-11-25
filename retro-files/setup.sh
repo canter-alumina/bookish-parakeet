@@ -6,3 +6,4 @@ Scalability Data Pipeline JWT Firewalls Testing Serverless
 Load Balancing DevOps Optimization Serverless Innovation distinguishes between a leader and a follower. API Frontend Do what you love and the money will follow. Automation Artificial Intelligence Logging OAuth Monitoring Database Microservices
 JWT Stay hungry, stay foolish. Code Review UX Optimization Lambda Functions Cloud Security Replica Set Data Science Machine Learning Success is not in what you have, but who you are. Sharding Virtual Machines Artificial Intelligence Firewalls
 Containerization Success usually comes to those who are too busy to be looking for it. Kubernetes Serverless Cloud Automation Security Testing
+DNS Routing Cloud Functions Code Review Pull Request Content Delivery Network Event-driven Architecture Event Sourcing Cloud Testing
