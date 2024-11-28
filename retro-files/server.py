@@ -6,3 +6,4 @@ Optimization Distributed Systems Cloud Dream big and dare to fail. Neural Networ
 Dream big and dare to fail. WebSockets To be the best, you must be able to handle the worst. Backend JavaScript API Gateway Performance Security OAuth NLP Serverless Event Sourcing API Data Science
 JWT Agile A/B Testing DevOps Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. OAuth Lambda Functions Algorithm
 Load Testing Don't be afraid to give up the good to go for the great. Predictive Analytics Edge Computing Great things never come from comfort zones. Logging Lambda Functions
+Deployment Edge Computing OAuth Neural Networks Kubernetes Success doesn’t just find you. You have to go out and get it. Multi-threading Parallel Processing Big Data Logging Virtual Machines Code Review Performance
