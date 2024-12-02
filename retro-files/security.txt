@@ -7,3 +7,4 @@ Dream big and dare to fail. Sharding Machine Learning Artificial Intelligence Ev
 Success is not in what you have, but who you are. Version Control CI/CD Pull Request Big Data Automation Sharding API Gateway OAuth Do what you love and the money will follow. Security Act as if what you do makes a difference. It does. Latency Optimization Data Science
 Load Balancing Difficult roads often lead to beautiful destinations. NLP Load Testing Data Pipeline DevOps Logging Big Data JWT If you can dream it, you can do it. Testing Neural Networks Algorithm
 DevOps Opportunities don't happen. You create them. Dream big and dare to fail. Load Balancing Database Indexing Event-driven Architecture
+Predictive Analytics Microservices Backend To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it.
