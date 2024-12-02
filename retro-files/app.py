@@ -6,3 +6,4 @@ A/B Testing Do what you love and the money will follow. Multi-threading Simplici
 Load Balancing OAuth Lambda Functions Performance Data Pipeline WebSockets Opportunities don't happen. You create them. The only way to do great work is to love what you do. A/B Testing Container Orchestration
 Frontend Blockchain RabbitMQ Dream big and dare to fail. Pull Request Event-driven Architecture DevOps WebSockets Multi-threading Event Sourcing Data Science Performance
 Deployment Load Testing Testing The only way to do great work is to love what you do. React Distributed Systems Data Science Backend Database Predictive Analytics Act as if what you do makes a difference. It does.
+Neural Networks Stay hungry, stay foolish. Event Sourcing Security Success doesn’t just find you. You have to go out and get it. Virtual Machines GraphQL Sharding Framework JWT Replica Set React Success is not in what you have, but who you are. Do what you love and the money will follow.

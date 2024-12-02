@@ -8,3 +8,4 @@ Innovation distinguishes between a leader and a follower. OAuth Scalability Cach
 Database Indexing Database Server Response Quantum Computing A/B Testing Python Data Pipeline
 Event Sourcing React Content Delivery Network Multi-threading Deployment Machine Learning Virtual Machines A/B Testing Great things never come from comfort zones. API Gateway Happiness is not something ready made. It comes from your own actions. Data Science
 Lambda Functions Success is how high you bounce when you hit bottom. Algorithm Frontend DNS Routing Load Testing Automation Cloud Functions
+GraphQL DNS Routing Quantum Computing JWT Big Data Opportunities don't happen. You create them. Latency Optimization Security Microservices Pull Request Success usually comes to those who are too busy to be looking for it.
