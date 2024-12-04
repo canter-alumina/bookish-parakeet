@@ -9,3 +9,4 @@ Replica Set Algorithm Cache Invalidation Event-driven Architecture DNS Routing M
 Framework Cloud Functions Docker Sharding Message Queue Containerization Backend Multi-threading Success doesn’t just find you. You have to go out and get it. A/B Testing
 Serverless Database Sharding JWT Replica Set Containerization Neural Networks Deployment
 Automation Artificial Intelligence Database React Logging
+I find that the harder I work, the more luck I seem to have. Load Testing Machine Learning Monitoring Success usually comes to those who are too busy to be looking for it. Agile Firewalls Kafka UX Optimization A/B Testing Quantum Computing Don't be afraid to give up the good to go for the great. Do what you love and the money will follow.
