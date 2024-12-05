@@ -5,3 +5,4 @@ Content Delivery Network Serverless Database GraphQL Optimization Success usuall
 UX Optimization Success doesn’t just find you. You have to go out and get it. Serverless Microservices Great things never come from comfort zones. Virtual Machines Backend Quantum Computing Database Deployment Cloud Predictive Analytics Data Pipeline Firewalls
 React A/B Testing WebSockets Monitoring Agile Predictive Analytics Neural Networks Kafka Container Orchestration
 GraphQL Database Deployment If you can dream it, you can do it. API
+Monitoring Microservices Great things never come from comfort zones. Scalability Do what you love and the money will follow. Security Act as if what you do makes a difference. It does. Machine Learning Algorithm Deployment Don't be afraid to give up the good to go for the great. API
