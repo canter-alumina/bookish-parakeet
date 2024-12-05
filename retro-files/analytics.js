@@ -8,3 +8,4 @@ Act as if what you do makes a difference. It does. Simplicity is the ultimate so
 Replica Set Algorithm Cache Invalidation Event-driven Architecture DNS Routing Monitoring Multi-threading Backend Cloud Functions Containerization Sharding Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Database Indexing
 Framework Cloud Functions Docker Sharding Message Queue Containerization Backend Multi-threading Success doesn’t just find you. You have to go out and get it. A/B Testing
 Serverless Database Sharding JWT Replica Set Containerization Neural Networks Deployment
+Automation Artificial Intelligence Database React Logging
