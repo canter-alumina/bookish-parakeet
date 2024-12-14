@@ -4,3 +4,4 @@ Containerization Neural Networks Latency Optimization If you can dream it, you c
 Algorithm Database Success is not in what you have, but who you are. Multi-threading Edge Computing Backend Simplicity is the ultimate sophistication. If you can dream it, you can do it. Stay hungry, stay foolish. Predictive Analytics
 Deployment Server Response Zero Downtime Deployment Success is how high you bounce when you hit bottom. Load Testing Logging WebSockets Cache Invalidation Virtual Machines API Cloud Functions Distributed Systems Event Sourcing Data Science Framework
 JavaScript Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Message Queue Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. OAuth
+Firewalls Edge Computing CI/CD Blockchain Event Sourcing Neural Networks Backend

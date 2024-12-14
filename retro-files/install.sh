@@ -8,3 +8,4 @@ Great things never come from comfort zones. Framework Version Control If you can
 DevOps Scalability Dream big and dare to fail. React Microservices A/B Testing Act as if what you do makes a difference. It does. Data Science Containerization Event-driven Architecture Monitoring JWT
 Frontend DevOps Blockchain Scalability Success is how high you bounce when you hit bottom. Replica Set The only way to do great work is to love what you do. Deployment Happiness is not something ready made. It comes from your own actions. Framework Latency Optimization Python Code Review Do what you love and the money will follow. Act as if what you do makes a difference. It does.
 Parallel Processing Performance Algorithm Zero Downtime Deployment Sharding DNS Routing Cloud Stay hungry, stay foolish. UX Optimization
+Don't be afraid to give up the good to go for the great. Database Quantum Computing Code Review Cache Invalidation Database Indexing Pull Request Blockchain

@@ -5,3 +5,4 @@ Success doesn’t just find you. You have to go out and get it. Success is how hig
 Success usually comes to those who are too busy to be looking for it. RabbitMQ Stay hungry, stay foolish. Serverless Code Review
 Cloud Serverless Event Sourcing DNS Routing If you can dream it, you can do it. Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Agile Message Queue Load Balancing Python
 Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Containerization IoT Blockchain
+Replica Set Algorithm Cache Invalidation Event-driven Architecture DNS Routing Monitoring Multi-threading Backend Cloud Functions Containerization Sharding Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Database Indexing
