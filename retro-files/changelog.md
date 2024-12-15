@@ -6,3 +6,4 @@ Event Sourcing Stay hungry, stay foolish. A/B Testing Containerization Pull Requ
 IoT Containerization Monitoring Distributed Systems Virtual Machines
 Latency Optimization API Gateway Database Artificial Intelligence Big Data Content Delivery Network Predictive Analytics Happiness is not something ready made. It comes from your own actions. API The only way to do great work is to love what you do. Great things never come from comfort zones.
 Load Balancing OAuth Kafka Load Testing Latency Optimization Optimization
+Edge Computing DNS Routing Quantum Computing Security Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. Load Balancing To be the best, you must be able to handle the worst. JavaScript
