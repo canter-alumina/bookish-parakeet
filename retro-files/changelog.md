@@ -5,3 +5,4 @@ Cloud Functions Logging Framework Firewalls Distributed Systems Machine Learning
 Event Sourcing Stay hungry, stay foolish. A/B Testing Containerization Pull Request Code Review CI/CD Big Data NLP Python Firewalls Automation Artificial Intelligence
 IoT Containerization Monitoring Distributed Systems Virtual Machines
 Latency Optimization API Gateway Database Artificial Intelligence Big Data Content Delivery Network Predictive Analytics Happiness is not something ready made. It comes from your own actions. API The only way to do great work is to love what you do. Great things never come from comfort zones.
+Load Balancing OAuth Kafka Load Testing Latency Optimization Optimization
