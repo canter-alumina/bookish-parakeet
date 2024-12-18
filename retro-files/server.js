@@ -5,3 +5,4 @@ To be the best, you must be able to handle the worst. Code Review Blockchain Hap
 Edge Computing Firewalls A/B Testing Cloud Functions Server Response Cloud Docker Distributed Systems Parallel Processing Big Data Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. API
 Quantum Computing Predictive Analytics Logging Blockchain Content Delivery Network Don't be afraid to give up the good to go for the great. Agile DNS Routing Python Docker JavaScript
 Database Indexing Message Queue A/B Testing Virtual Machines Deployment Replica Set If you can dream it, you can do it. Do what you love and the money will follow. Algorithm Sharding CI/CD
+Stay hungry, stay foolish. IoT Simplicity is the ultimate sophistication. Server Response OAuth Framework
