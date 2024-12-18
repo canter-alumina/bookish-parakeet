@@ -10,3 +10,4 @@ Logging API Kubernetes Event-driven Architecture Success is how high you bounce 
 Blockchain Serverless Performance Agile Load Balancing Replica Set DNS Routing Kubernetes Parallel Processing Neural Networks Kafka
 The only way to do great work is to love what you do. Logging CI/CD Serverless GraphQL Security Sharding Artificial Intelligence
 Data Science Containerization Simplicity is the ultimate sophistication. Machine Learning Python Don't be afraid to give up the good to go for the great. A/B Testing Database The only way to do great work is to love what you do. Monitoring Work hard in silence, let your success be your noise. Docker Innovation distinguishes between a leader and a follower. API Gateway
+Replica Set Optimization Automation Event-driven Architecture Pull Request
