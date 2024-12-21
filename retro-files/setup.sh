@@ -4,3 +4,4 @@ Data Pipeline Success doesn’t just find you. You have to go out and get it. Quan
 React Artificial Intelligence Message Queue Quantum Computing JWT A/B Testing Simplicity is the ultimate sophistication.
 Scalability Data Pipeline JWT Firewalls Testing Serverless
 Load Balancing DevOps Optimization Serverless Innovation distinguishes between a leader and a follower. API Frontend Do what you love and the money will follow. Automation Artificial Intelligence Logging OAuth Monitoring Database Microservices
+JWT Stay hungry, stay foolish. Code Review UX Optimization Lambda Functions Cloud Security Replica Set Data Science Machine Learning Success is not in what you have, but who you are. Sharding Virtual Machines Artificial Intelligence Firewalls
