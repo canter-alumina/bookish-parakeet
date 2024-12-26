@@ -2,3 +2,4 @@ Great things never come from comfort zones. API Gateway Microservices Cache Inva
 Data Pipeline Dream big and dare to fail. Message Queue Docker Data Science Difficult roads often lead to beautiful destinations.
 Replica Set Algorithm Latency Optimization Zero Downtime Deployment The only way to do great work is to love what you do. Predictive Analytics NLP Blockchain Docker
 Load Testing DevOps Load Balancing To be the best, you must be able to handle the worst. Database Indexing Parallel Processing
+A/B Testing Do what you love and the money will follow. Multi-threading Simplicity is the ultimate sophistication. Frontend CI/CD API Gateway Sharding Zero Downtime Deployment DNS Routing Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Framework Virtual Machines Load Testing
