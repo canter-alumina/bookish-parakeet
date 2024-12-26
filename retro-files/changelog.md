@@ -3,3 +3,4 @@ Artificial Intelligence Success is how high you bounce when you hit bottom. NLP 
 Distributed Systems Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Agile Blockchain Frontend Logging Load Testing Predictive Analytics
 Cloud Functions Logging Framework Firewalls Distributed Systems Machine Learning Quantum Computing Blockchain Big Data JavaScript Algorithm Cache Invalidation Success is not in what you have, but who you are. Database
 Event Sourcing Stay hungry, stay foolish. A/B Testing Containerization Pull Request Code Review CI/CD Big Data NLP Python Firewalls Automation Artificial Intelligence
+IoT Containerization Monitoring Distributed Systems Virtual Machines
