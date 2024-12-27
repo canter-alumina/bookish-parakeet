@@ -2,3 +2,4 @@ Machine Learning Content Delivery Network Data Science JWT CI/CD Success is how 
 Framework Microservices Predictive Analytics Edge Computing Containerization Logging NLP Stay hungry, stay foolish. UX Optimization
 Agile Distributed Systems Testing Docker Event-driven Architecture To be the best, you must be able to handle the worst. Event Sourcing Code Review Data Pipeline Pull Request Great things never come from comfort zones. IoT Quantum Computing
 Content Delivery Network Innovation distinguishes between a leader and a follower. Virtual Machines Logging Testing Database Happiness is not something ready made. It comes from your own actions. Cache Invalidation UX Optimization Database Indexing Edge Computing To be the best, you must be able to handle the worst.
+Automation Quantum Computing Deployment Predictive Analytics Optimization Firewalls Version Control Performance Security Scalability Parallel Processing

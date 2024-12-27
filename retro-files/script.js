@@ -4,3 +4,4 @@ CI/CD Load Testing Firewalls Latency Optimization To be the best, you must be ab
 Python Logging Lambda Functions The only way to do great work is to love what you do. Testing GraphQL Database Indexing Distributed Systems Multi-threading NLP Latency Optimization Replica Set
 Success is not in what you have, but who you are. JavaScript Predictive Analytics A/B Testing If you can dream it, you can do it. Python
 Serverless WebSockets Containerization Cloud Functions Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Code Review IoT Microservices Optimization Automation Replica Set Testing Database
+Innovation distinguishes between a leader and a follower. OAuth Scalability Cache Invalidation Testing The only way to do great work is to love what you do.
