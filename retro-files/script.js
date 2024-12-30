@@ -2,3 +2,4 @@ Containerization Microservices Multi-threading Don't be afraid to give up the go
 Edge Computing To be the best, you must be able to handle the worst. Kubernetes Latency Optimization API Gateway Don't be afraid to give up the good to go for the great. Container Orchestration Message Queue
 CI/CD Load Testing Firewalls Latency Optimization To be the best, you must be able to handle the worst. Data Science Distributed Systems Python Success is how high you bounce when you hit bottom. Scalability Happiness is not something ready made. It comes from your own actions. Server Response
 Python Logging Lambda Functions The only way to do great work is to love what you do. Testing GraphQL Database Indexing Distributed Systems Multi-threading NLP Latency Optimization Replica Set
+Success is not in what you have, but who you are. JavaScript Predictive Analytics A/B Testing If you can dream it, you can do it. Python

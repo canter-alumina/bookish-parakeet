@@ -6,3 +6,4 @@ Opportunities don't happen. You create them. Optimization Kubernetes API Gateway
 RabbitMQ Replica Set Zero Downtime Deployment Stay hungry, stay foolish. Testing CI/CD Backend The only way to do great work is to love what you do.
 Scalability Kafka Machine Learning Lambda Functions Multi-threading
 Server Response Artificial Intelligence Do what you love and the money will follow. Machine Learning API Gateway
+Blockchain Docker Zero Downtime Deployment API Gateway Kafka Event-driven Architecture Microservices
