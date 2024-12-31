@@ -4,3 +4,4 @@ Security Act as if what you do makes a difference. It does. Lambda Functions Dis
 A/B Testing Scalability Lambda Functions Kafka JWT DevOps Cache Invalidation
 Lambda Functions Data Science IoT Database Indexing Artificial Intelligence Success usually comes to those who are too busy to be looking for it. API Gateway Replica Set Optimization Framework Sharding Agile A/B Testing
 OAuth Firewalls Python RabbitMQ Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Stay hungry, stay foolish. Monitoring Microservices Opportunities don't happen. You create them. Kubernetes Blockchain
+Great things never come from comfort zones. Framework Version Control If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Dream big and dare to fail. Backend React JavaScript Containerization Agile
