@@ -6,3 +6,4 @@ I find that the harder I work, the more luck I seem to have. A/B Testing Agile W
 Artificial Intelligence Load Balancing The only way to do great work is to love what you do. A/B Testing Replica Set Cache Invalidation WebSockets Containerization Cloud API Gateway JavaScript Security
 Replica Set Load Balancing Serverless Scalability Algorithm Sharding Distributed Systems Do what you love and the money will follow. OAuth Frontend Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Automation Content Delivery Network Container Orchestration
 Cache Invalidation Happiness is not something ready made. It comes from your own actions. Replica Set Parallel Processing React Monitoring Framework DevOps DNS Routing Load Balancing
+Logging API Kubernetes Event-driven Architecture Success is how high you bounce when you hit bottom. Replica Set
