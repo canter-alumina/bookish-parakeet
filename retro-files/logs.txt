@@ -4,3 +4,4 @@ Great things never come from comfort zones. Innovation distinguishes between a l
 Do what you love and the money will follow. Automation Frontend Performance Edge Computing Data Science Kafka Latency Optimization Load Balancing DNS Routing Data Pipeline
 Opportunities don't happen. You create them. Optimization Kubernetes API Gateway Monitoring Difficult roads often lead to beautiful destinations.
 RabbitMQ Replica Set Zero Downtime Deployment Stay hungry, stay foolish. Testing CI/CD Backend The only way to do great work is to love what you do.
+Scalability Kafka Machine Learning Lambda Functions Multi-threading
