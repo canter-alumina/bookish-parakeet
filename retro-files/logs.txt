@@ -2,3 +2,4 @@ I find that the harder I work, the more luck I seem to have. CI/CD Testing Perfo
 Sharding Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. UX Optimization Frontend Replica Set Zero Downtime Deployment Firewalls Event-driven Architecture CI/CD Testing Database Indexing
 Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. Framework Parallel Processing React Code Review RabbitMQ Version Control JavaScript Content Delivery Network
 Do what you love and the money will follow. Automation Frontend Performance Edge Computing Data Science Kafka Latency Optimization Load Balancing DNS Routing Data Pipeline
+Opportunities don't happen. You create them. Optimization Kubernetes API Gateway Monitoring Difficult roads often lead to beautiful destinations.
