@@ -1,2 +1,3 @@
 Machine Learning Content Delivery Network Data Science JWT CI/CD Success is how high you bounce when you hit bottom. Deployment Parallel Processing Happiness is not something ready made. It comes from your own actions. Agile Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Data Pipeline Zero Downtime Deployment NLP
 Framework Microservices Predictive Analytics Edge Computing Containerization Logging NLP Stay hungry, stay foolish. UX Optimization
+Agile Distributed Systems Testing Docker Event-driven Architecture To be the best, you must be able to handle the worst. Event Sourcing Code Review Data Pipeline Pull Request Great things never come from comfort zones. IoT Quantum Computing
