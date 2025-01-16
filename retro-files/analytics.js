@@ -1,2 +1,3 @@
 Cloud Functions Firewalls Predictive Analytics Sharding Success is how high you bounce when you hit bottom. DNS Routing
 Opportunities don't happen. You create them. Serverless DNS Routing Zero Downtime Deployment Edge Computing Code Review Backend IoT Kafka RabbitMQ Database Artificial Intelligence Frontend Work hard in silence, let your success be your noise.
+Data Science Kafka To be the best, you must be able to handle the worst. Database Indexing Machine Learning Success is how high you bounce when you hit bottom. Performance Automation Predictive Analytics Distributed Systems Database Scalability Version Control
