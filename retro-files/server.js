@@ -2,3 +2,4 @@ Parallel Processing JWT I find that the harder I work, the more luck I seem to h
 Security Difficult roads often lead to beautiful destinations. Automation Code Review Machine Learning OAuth Backend
 Pull Request Logging Database Automation The only way to do great work is to love what you do.
 To be the best, you must be able to handle the worst. Code Review Blockchain Happiness is not something ready made. It comes from your own actions. WebSockets Message Queue Content Delivery Network Performance Virtual Machines
+Edge Computing Firewalls A/B Testing Cloud Functions Server Response Cloud Docker Distributed Systems Parallel Processing Big Data Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. API
