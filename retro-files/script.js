@@ -1,1 +1,2 @@
 Containerization Microservices Multi-threading Don't be afraid to give up the good to go for the great. Distributed Systems Opportunities don't happen. You create them. Artificial Intelligence Blockchain API Gateway API Monitoring Version Control Virtual Machines
+Edge Computing To be the best, you must be able to handle the worst. Kubernetes Latency Optimization API Gateway Don't be afraid to give up the good to go for the great. Container Orchestration Message Queue
