@@ -1,2 +1,3 @@
 Parallel Processing JWT I find that the harder I work, the more luck I seem to have. Containerization Artificial Intelligence Innovation distinguishes between a leader and a follower. Scalability Edge Computing Agile Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Load Balancing
 Security Difficult roads often lead to beautiful destinations. Automation Code Review Machine Learning OAuth Backend
+Pull Request Logging Database Automation The only way to do great work is to love what you do.
