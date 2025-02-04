@@ -1,0 +1,1 @@
+Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. Kubernetes Lambda Functions Zero Downtime Deployment JWT Deployment Machine Learning Data Science Edge Computing Success is not in what you have, but who you are. Do what you love and the money will follow. Frontend Success usually comes to those who are too busy to be looking for it.
